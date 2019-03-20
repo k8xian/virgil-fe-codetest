@@ -1,3 +1,11 @@
+## Submission Notes - Kate Christian
+The entire page looks small, but this is because I was going directly off the pixel sizes of the comp. I'm going to add a scale button for legibility, but I wanted to demonstrate that I can carefully and precisely implement a design. 
+
+After 4 hours the entire comp is visually present except for dummy props for the date modified, the conditional rendering of editable features and the lock icons. This won't take much time at all to finish, I just am literally out of time. 
+
+I will keep pushing to this repo with updates on my work when I have a chance.
+
+
 ## Expectations
 - While we have provided you with an initial bootstrapped react app (based on create-react-app) you have creative license to change the initial setup to fit your preferred project structure 
 
